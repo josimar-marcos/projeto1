@@ -1,0 +1,9 @@
+C:\Users\Informatica\source\repos\Manutenção\bin\Debug\Manutenção.exe
+C:\Users\Informatica\source\repos\Manutenção\bin\Debug\Manutenção.pdb
+C:\Users\Informatica\source\repos\Manutenção\obj\Debug\Manutenção.csprojAssemblyReference.cache
+C:\Users\Informatica\source\repos\Manutenção\obj\Debug\Manutenção.Form1.resources
+C:\Users\Informatica\source\repos\Manutenção\obj\Debug\Manutenção.Properties.Resources.resources
+C:\Users\Informatica\source\repos\Manutenção\obj\Debug\Manutenção.csproj.GenerateResource.cache
+C:\Users\Informatica\source\repos\Manutenção\obj\Debug\Manutenção.exe
+C:\Users\Informatica\source\repos\Manutenção\obj\Debug\Manutenção.pdb
+C:\Users\Informatica\source\repos\Manutenção\obj\Debug\Manutenção.Sistema.PequenosReparos.resources

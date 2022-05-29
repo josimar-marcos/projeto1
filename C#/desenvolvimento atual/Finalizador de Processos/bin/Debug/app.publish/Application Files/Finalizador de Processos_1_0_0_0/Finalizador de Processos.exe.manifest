@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Finalizador de Processos.exe" version="1.0.0.0" publicKeyToken="6d2785a14899a9c4" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Custom-Icon-Design-Pretty-Office-8-Accept.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Finalizador de Processos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Finalizador de Processos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site" Unrestricted="true" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opções de Manifesto UAC
+ Se você deseja alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó requestedExecutionLevel 
+ por um dos seguintes.
+
+<requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+ Especificar o elemento requestedExecutionLevel desabilitará a virtualização de arquivos e Registro. 
+ Remova esse elemento se seu aplicativo requer essa virtualização para compatibilidade
+            com versões anteriores.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Finalizador de Processos.exe" size="448504">
+      <assemblyIdentity name="Finalizador de Processos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>q7aOsZdcbri4O1u4tWCDF+pWjQU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Custom-Icon-Design-Pretty-Office-8-Accept.ico" size="432254">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bMsteogOXYd+ug5njUTIMHiNOtk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Uma lista das versões do Windows nas quais este aplicativo foi testado e
+           com as quais ele foi projetado para trabalhar. Remova a marca de comentário dos elementos apropriados
+           e o Windows selecionará automaticamente o ambiente mais compatível. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Informatica-NL\Informatica" issuerKeyHash="678594cc24c4f621d6194d45ff436bcf59496b30" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qCgJq+sjvKvMJEDvhYZfmzcWYng=</DigestValue></Reference></SignedInfo><SignatureValue>sLGHdBq+FuU6d3ec8w1HzXiWKFrpry/N2VMMHkpxorN00khr9JNQNTjxXGWIlo3eVejBO4g8VkXDM2LfACJiX2wNDra+0/fdQ17iXRSSl3mGP/v5ROAwcX5lzdiKn5Vs8XFXJabuxHlbfY4OeYXhRK68YX9/765TvksQT8kj/LM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tbdE/9oJWEVS/VeIu94AGXMbvzysZiW2Qboikqc8Ivt7msSZSwwKRU235dGwghWo4bdaFbpeyv0v3gFPBCGZT6BqWxDIvVdpHzywCSJkgz/S0X4Q5eARP4rwxHzMUO8GVJBZIv84h9fU3WdlVoZhBMQ7tRyOd++U1aow6u4rJKE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="786216379b5f8685ef4024ccabbc23ebab0928a8" Description="" Url=""><as:assemblyIdentity name="Finalizador de Processos.exe" version="1.0.0.0" publicKeyToken="6d2785a14899a9c4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Informatica-NL\Informatica</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>kuMCGjGk/D2zjd1LfjflfhMuUY0=</DigestValue></Reference></SignedInfo><SignatureValue>RCvRcNnlQ6lMubxl5j5/xEs/qCOukMHjA6ikRYgLg5IEYSlLj3b7KSZY8leorYAy5RRIRMwXCk6ud9jUHRDvSc2/yhN9+d3SP270Sp6Xq/y6E8+nJP6VEYZqu+G/G6SlNYgAY/TU3rif5Y1gJgYcJujRuju4RrwzVLQl9aE4tcc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tbdE/9oJWEVS/VeIu94AGXMbvzysZiW2Qboikqc8Ivt7msSZSwwKRU235dGwghWo4bdaFbpeyv0v3gFPBCGZT6BqWxDIvVdpHzywCSJkgz/S0X4Q5eARP4rwxHzMUO8GVJBZIv84h9fU3WdlVoZhBMQ7tRyOd++U1aow6u4rJKE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQEKiu4WmT0opLLNmPsSZh/TANBgkqhkiG9w0BAQUFADA/MT0wOwYDVQQDHjQASQBuAGYAbwByAG0AYQB0AGkAYwBhAC0ATgBMAFwASQBuAGYAbwByAG0AYQB0AGkAYwBhMB4XDTIwMDEyNDE5MTA0OFoXDTIxMDEyNDAxMTA0OFowPzE9MDsGA1UEAx40AEkAbgBmAG8AcgBtAGEAdABpAGMAYQAtAE4ATABcAEkAbgBmAG8AcgBtAGEAdABpAGMAYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtbdE/9oJWEVS/VeIu94AGXMbvzysZiW2Qboikqc8Ivt7msSZSwwKRU235dGwghWo4bdaFbpeyv0v3gFPBCGZT6BqWxDIvVdpHzywCSJkgz/S0X4Q5eARP4rwxHzMUO8GVJBZIv84h9fU3WdlVoZhBMQ7tRyOd++U1aow6u4rJKECAwEAATANBgkqhkiG9w0BAQUFAAOBgQCu4/qv8DNGWQj5O+G6uSS7n4XtiSrSwHopKkifEJYwNSylUAHYqvtMaaSVziL1REH+ubwScMRVRCk+OIzfIf/WBzrl14fEDWwNcYPj6iaP8j2X+t9x6F2clI6VDDG8D51sVS3K5YzaHKMZoHi0kefzNK6iFVpcs9JtwPdxoENChg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
