@@ -1,0 +1,13 @@
+C:\Users\Informatica\source\repos\Finalizador de Processos\bin\Debug\Finalizador de Processos.exe
+C:\Users\Informatica\source\repos\Finalizador de Processos\bin\Debug\Finalizador de Processos.pdb
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador de Processos.csprojAssemblyReference.cache
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador_de_Processos.FormPrincipal.resources
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador de Processos.csproj.GenerateResource.cache
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador de Processos.exe
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador de Processos.pdb
+C:\Users\Informatica\source\repos\Finalizador de Processos\bin\Debug\Finalizador de Processos.exe.manifest
+C:\Users\Informatica\source\repos\Finalizador de Processos\bin\Debug\Finalizador de Processos.application
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador.Properties.Resources.resources
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador de Processos.TrustInfo.xml
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador de Processos.exe.manifest
+C:\Users\Informatica\source\repos\Finalizador de Processos\obj\Debug\Finalizador de Processos.application

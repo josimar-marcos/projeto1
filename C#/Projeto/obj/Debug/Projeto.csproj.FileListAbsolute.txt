@@ -1,0 +1,16 @@
+C:\Users\Informatica\source\repos\Projeto\bin\Debug\Projeto.exe
+C:\Users\Informatica\source\repos\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Informatica\source\repos\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Informatica\source\repos\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Informatica\source\repos\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Informatica\source\repos\Projeto\obj\Debug\Projeto.exe
+C:\Users\Informatica\source\repos\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Informatica\source\repos\Projeto\obj\Debug\Projeto.Form1.resources
+G:\repos\Projeto\bin\Debug\Projeto.exe
+G:\repos\Projeto\bin\Debug\Projeto.pdb
+G:\repos\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+G:\repos\Projeto\obj\Debug\Projeto.Form1.resources
+G:\repos\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+G:\repos\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+G:\repos\Projeto\obj\Debug\Projeto.exe
+G:\repos\Projeto\obj\Debug\Projeto.pdb

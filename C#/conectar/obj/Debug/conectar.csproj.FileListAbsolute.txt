@@ -1,0 +1,8 @@
+C:\Users\Informatica\source\repos\conectar\bin\Debug\conectar.exe
+C:\Users\Informatica\source\repos\conectar\bin\Debug\conectar.pdb
+C:\Users\Informatica\source\repos\conectar\obj\Debug\conectar.csprojAssemblyReference.cache
+C:\Users\Informatica\source\repos\conectar\obj\Debug\conectar.Form1.resources
+C:\Users\Informatica\source\repos\conectar\obj\Debug\conectar.Properties.Resources.resources
+C:\Users\Informatica\source\repos\conectar\obj\Debug\conectar.csproj.GenerateResource.cache
+C:\Users\Informatica\source\repos\conectar\obj\Debug\conectar.exe
+C:\Users\Informatica\source\repos\conectar\obj\Debug\conectar.pdb
